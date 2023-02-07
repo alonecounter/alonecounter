@@ -1,0 +1,14 @@
+/*
+  Localizable.strings
+  AloneCounter
+
+  Created by Ba Kien on 28/11/2022.
+  
+*/
+"welcome" = "Chào mừng bạn đến với \nĐếm ngày cô đơn";
+"together" = "Cùng nhau trải qua những ngày tháng cô đơn";
+"loginbygg" = "Đăng nhập bằng Google";
+"loginbyemail" = "Đăng nhập bằng Email";
+"certificate" = "Bằng cách đăng nhập , bạn đồng ý với chính sách bảo mật và điều khoản sử dụng của chúng tôi.";
+"secure" = "chính sách bảo mật";
+"provision" = "điều khoản sử dụng";
