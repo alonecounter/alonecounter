@@ -16,6 +16,13 @@ import GoogleSignIn
  github email : firebase.alonecounter@gmail.com
  pw : Kkcyakrp123
  user : alonecounter
+ 
+ git clone https://github.com/alonecounter/alonecounter.git
+ 
+ git status
+ git add *
+ git commit -m "comment"
+ git push
  */
 
 struct LogInView: View {
